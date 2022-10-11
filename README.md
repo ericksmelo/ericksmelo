@@ -15,16 +15,11 @@ I have personal experience with projects using Dart in Flutter. Student at JStac
 
 ## 🛠 &nbsp;Tech Stack
 
-![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=282a36&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=282a36&logo=node.js)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=282a36&logo=javascript)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=for-the-badge&color=282a36&logo=typescript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&color=282a36&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&color=282a36&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&color=282a36&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&color=282a36&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&color=282a36&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  
+ 
+</div>
 
 ### Find me elsewhere  🌎
 <p align="left" style="background:none">
