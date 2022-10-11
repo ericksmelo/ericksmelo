@@ -37,6 +37,6 @@ I have personal experience with projects using Dart in Flutter. Student at JStac
 <!-- ## ⚙️ &nbsp;GitHub Analytics -->
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasnatanmelo&show_icons=true&theme=dracula" alt="lucasnatanmelo's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnatanmelo&layout=compact&theme=dracula" alt="lucasnatanmelo's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ericksmelo&show_icons=true&theme=dracula" alt="erickmelo's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksmelo&layout=compact&theme=dracula" alt="erickmelo's most languages"/>
 </p>
